@@ -7,8 +7,6 @@
 
 ## <b>About Me</b> :cowboy_hat_face:
 
-- 🔭 I’m currently working in a <a href="https://www.nocountry.tech/" target="blank">No Country</a> Project
-
 - 🌱 I’m currently Working on Web App (Reactjs)
 
 - 🤝 I’m available for freelancing.
