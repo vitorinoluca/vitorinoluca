@@ -2,7 +2,7 @@
 
 Desarrollador Fullstack (Next.js + NestJS) y estudiante de Lic. en Sistemas en la Facultad de Informática — UNLP.
 
-Fundé **Fluxify**, mi propio proyecto de desarrollo de aplicaciones, sitios y automatizaciones a medida, armado de punta a punta.
+Fundé **Fluxify**, mi propio proyecto de desarrollo de aplicaciones, sitios y automatizaciones a medida.
 
 ---
 
