@@ -1,87 +1,45 @@
-# ¡Hola! Soy Luca 👋
+<div align="center">
 
-Fullstack developer (Next.js & NestJS) con +4 años de experiencia, de La Plata,
-Argentina. Estudio Lic. en Sistemas en la Facultad de Informática — UNLP, y
-fundé **Fluxify**, mi propio negocio de desarrollo de software para pymes y
-startups.
+# Hola, soy Luca 👋
 
-Arranqué en 2022 con HTML/CSS, sumé JavaScript y React, y hoy trabajo en todo el
-stack: del frontend a la base de datos. Me gusta armar aplicaciones que
-resuelvan un problema real.
+**Fullstack developer · Next.js & NestJS**<br>
+Estudiante de Lic. en Sistemas (UNLP) · La Plata, Argentina
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=netlify&logoColor=white)](https://vitorinoluca-portfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/luca-vitorino/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:valentinvitorino28@gmail.com)
 
-### 🔧 Stack
+<br>
 
-**Frontend**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,astro,nodejs,nestjs,express,postgres,mongodb,redis,docker,supabase,git&perline=7&theme=dark">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,astro,nodejs,nestjs,express,postgres,mongodb,redis,docker,supabase,git&perline=7&theme=light" alt="Stack: React, Next.js, TypeScript, Tailwind, Astro, Node.js, NestJS, Express, PostgreSQL, MongoDB, Redis, Docker, Supabase, Git">
+</picture>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=vitorinoluca&layout=donut&langs_count=5&theme=dark_github&hide_border=true&bg_color=00000000">
+  <img width="320" src="https://github-stats-extended.vercel.app/api/top-langs?username=vitorinoluca&layout=donut&langs_count=5&theme=default&hide_border=true&bg_color=00000000" alt="Lenguajes más usados">
+</picture>
 
-**Backend**
+</div>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+### Proyectos
 
-**Herramientas & otros**
+**[facturador-arca](https://github.com/vitorinoluca/facturador-arca)** · [demo](https://app.fluxify.site)<br>
+Facturación electrónica ARCA para monotributistas: emite Facturas C reales con CAE, sin certificados propios.<br>
+`NestJS` `PostgreSQL` `Next.js`
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+**[payments-platform](https://github.com/vitorinoluca/payments-platform)** · [demo](https://payments-platform-zeta.vercel.app/test.html)<br>
+Pagos P2P con ledger de doble entrada, locking pesimista, idempotencia y detección de fraude por reglas.<br>
+`NestJS` `PostgreSQL` `Redis` `Socket.io`
 
----
+**[localhost:forum](https://github.com/vitorinoluca/localhost-forum)** · [demo](https://localhost-forum.onrender.com)<br>
+Foro full-stack con hilos, comentarios anidados, reacciones y auth propia (JWT en cookies httpOnly, Argon2).<br>
+`React` `Express` `PostgreSQL` `Supabase`
 
-### 🚀 Proyectos destacados
+### Formación
 
-**[facturador-arca](https://github.com/vitorinoluca/facturador-arca)** — 2026
-Facturación electrónica (ARCA/WSFEv1) para monotributistas. Los usuarios delegan
-la facturación en el CUIT de la app y emiten Facturas C reales con CAE, sin
-gestionar certificados propios. `NestJS` · `PostgreSQL` · `Next.js` · `AFIP SDK`
-🔗 [Demo](https://app.fluxify.site)
-
-**[payments-platform](https://github.com/vitorinoluca/payments-platform)** —
-2025 Plataforma de pagos P2P con ledger de doble entrada, locking pesimista para
-transferencias simultáneas, idempotencia y un motor de detección de fraude por
-reglas. `NestJS` · `PostgreSQL` · `Redis` · `Socket.io` 🔗
-[Demo](https://payments-platform-zeta.vercel.app/test.html)
-
-**[localhost:forum](https://github.com/vitorinoluca/localhost-forum)** — 2025
-Foro web full-stack con hilos, comentarios anidados y reacciones. Autenticación
-propia con verificación por email, JWT en cookies httpOnly y hashing Argon2.
-Adjuntos en Supabase Storage, desplegado en Render. `React` · `Express` ·
-`PostgreSQL` · `Supabase Storage` 🔗
-[Demo en vivo](https://localhost-forum.onrender.com)
-
-**Fluxify** Mi negocio de desarrollo de software para pymes y startups: sitios
-con cobro online, paneles internos y automatizaciones a medida. 🔗
-[fluxify.site](https://www.fluxify.site/)
-
----
-
-### 🎓 Formación
-
-- **Lic. en Sistemas** — Universidad Nacional de La Plata, Facultad de
-  Informática _(2025 — actualidad)_
-- **Programador Web Avanzado, Full Stack Developer** — Universidad Tecnológica
-  Nacional _(sep–dic 2023)_
-- **Curso de React.js** — CoderHouse _(feb–abr 2023)_
-
----
-
-### 📫 Contactame
-
-[Portfolio](https://vitorinoluca-portfolio.netlify.app/) ·
-[LinkedIn](https://linkedin.com/in/luca-vitorino/) ·
-[Fluxify](https://www.fluxify.site/) ·
-[valentinvitorino28@gmail.com](mailto:valentinvitorino28@gmail.com)
+**Lic. en Sistemas** · Facultad de Informática, UNLP · _2025 – actualidad_<br>
+**Full Stack Developer** · UTN · _2023_<br>
+**React.js** · CoderHouse · _2023_<br>
+**Desarrollo Web** · CoderHouse · _2022_
