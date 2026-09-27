@@ -12,13 +12,15 @@ Estudiante de Lic. en Sistemas (UNLP) · La Plata, Argentina
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Cts%2Ctailwind%2Castro%2Cnodejs%2Cnestjs%2Cexpress%2Cpostgres%2Cmongodb%2Credis%2Cdocker%2Csupabase%2Cgit&perline=7&theme=dark">
-  <img src="https://skillicons.dev/icons?i=react%2Cnextjs%2Cts%2Ctailwind%2Castro%2Cnodejs%2Cnestjs%2Cexpress%2Cpostgres%2Cmongodb%2Credis%2Cdocker%2Csupabase%2Cgit&perline=7&theme=light" alt="Stack: React, Next.js, TypeScript, Tailwind, Astro, Node.js, NestJS, Express, PostgreSQL, MongoDB, Redis, Docker, Supabase, Git">
+  <source media="(prefers-color-scheme: dark)" srcset="stack-dark.svg">
+  <img src="stack-light.svg" alt="Stack: JavaScript, TypeScript, React, Next.js, Astro, Tailwind, Node.js, NestJS, Express, PostgreSQL, MongoDB, Redis">
 </picture>
-<br><br>
+
+<br>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=vitorinoluca&layout=donut&langs_count=5&theme=dark_github&hide_border=true&bg_color=00000000">
-  <img width="320" src="https://github-stats-extended.vercel.app/api/top-langs?username=vitorinoluca&layout=donut&langs_count=5&theme=default&hide_border=true&bg_color=00000000" alt="Lenguajes más usados">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=vitorinoluca&layout=donut&langs_count=5&hide_border=true&bg_color=00000000&theme=dark_github">
+  <img width="300" src="https://github-stats-extended.vercel.app/api/top-langs?username=vitorinoluca&layout=donut&langs_count=5&hide_border=true&bg_color=00000000&theme=default" alt="Lenguajes más usados">
 </picture>
 
 </div>
